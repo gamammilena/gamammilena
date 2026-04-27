@@ -49,7 +49,7 @@
     </ul>
 
     <h2>Contato</h2>
-    <p>Email: seuemail@ufpb.br</p>
+    <p>Email: milenabarbosagama@gmail.com</p>
     <p><a href="#">Currículo Lattes</a></p>
 </div>
 
