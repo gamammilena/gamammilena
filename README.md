@@ -37,9 +37,9 @@
 
     <h2>Disciplinas</h2>
     <ul>
-        <li><a href="#">Equações Diferenciais Ordinárias</a></li>
-        <li><a href="#">Cálculo I</a></li>
-        <li><a href="#">Álgebra Linear</a></li>
+        <li><a href="#">Matemática para Economia III</a></li>
+        <li><a href="#">Cálculo II</a></li>
+        <li><a href="#">Introdução à Álgebra Linear</a></li>
     </ul>
 
     <h2>Materiais</h2>
